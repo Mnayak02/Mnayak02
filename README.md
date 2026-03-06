@@ -1,23 +1,73 @@
-<h1 align="center">Hi 👋, I'm Mayur Nayak</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+# Hi, I'm Mayur Nayak 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnayak02&label=Profile%20views&color=0e75b6&style=flat" alt="mnayak02" /> </p>
+### Cybersecurity & Cloud Professional | SOC | GRC | AWS | Houston, TX
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnayak02" alt="mnayak02" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-nayak-576944291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayur.nayak@gmail.com)
 
-- 🌱 I’m currently learning **Machine Learning and Generative AI**
+---
 
-- 📫 How to reach me **Mayur.nayak@gmail.com**
+## 🎯 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-nayak-576944291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-nayak-576944291/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayurahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurahul" height="30" width="40" /></a>
-</p>
+I'm a cybersecurity and cloud professional based in **Houston, TX**, targeting entry-level roles in **SOC Analysis**, **Cloud Security**, and **GRC/Compliance**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🛡️ **CompTIA Security+** — March 2026
+- ☁️ **AWS Certified Solutions Architect** — Associate
+- 🎓 **M.S. Data Science** — University of the Cumberlands *(In Progress)*
+- 🏦 Background in regulated industries: **JPMorgan Chase**, **RBC**, **USAA** — hands-on with PCI-DSS, HIPAA, KYC, and AML
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnayak02&show_icons=true&locale=en&layout=compact" alt="mnayak02" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnayak02&show_icons=true&locale=en" alt="mnayak02" /></p>
+## 🔐 Security Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [🛡️ soc-monitoring-lab](https://github.com/Mnayak02/soc-monitoring-lab) | Built a SOC lab simulating brute-force attacks, detected threats with Splunk SPL queries, and produced incident reports | Splunk · Kali Linux · Nmap · VirtualBox |
+| [☁️ aws-cloud-security](https://github.com/Mnayak02/aws-cloud-security) | Deployed secure AWS infrastructure mapped to CIS Benchmark v1.4 — IAM, CloudTrail, CloudWatch alarms | AWS IAM · CloudTrail · CloudWatch · VPC |
+| [🐍 python-log-analyzer](https://github.com/Mnayak02/python-log-analyzer) | Python tool that parses auth.log files, detects brute-force patterns with sliding window algorithm, exports to Power BI | Python · Pandas · Regex · Power BI |
+| [🦈 wireshark-network-analysis](https://github.com/Mnayak02/wireshark-network-analysis) | Analyzed network captures to identify cleartext credentials, ARP poisoning, DNS anomalies, and port scan signatures | Wireshark · tshark · Kali Linux |
+
+---
+
+## 🧰 Skills & Tools
+
+**Security**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+**Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data & Reporting**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Status |
+|---|---|
+| CompTIA Security+ | ✅ March 2026 |
+| AWS Certified Solutions Architect – Associate | ✅ 2024 |
+| CompTIA A+ (Core 1 & Core 2) | ✅ |
+| Texas Property & Casualty Insurance License | ✅ |
+
+---
+
+## 💼 Compliance Background
+
+My work history in regulated industries gives me practical GRC experience most technical candidates don't have:
+
+- **JPMorgan Chase** — BSA/AML procedures, SAR protocols, dual-control compliance
+- **Teleperformance / USAA** — PCI-DSS, HIPAA, zero compliance violations
+- **Royal Bank of Canada** — KYC, AML, FINTRAC regulatory reporting
+
+---
+
+*📍 Based in Houston, TX — open to roles in cybersecurity, cloud security, SOC, and GRC/compliance*
