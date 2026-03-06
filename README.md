@@ -53,10 +53,10 @@ I'm a cybersecurity and cloud professional based in **Houston, TX**, targeting e
 
 | Certification | Status |
 |---|---|
-| CompTIA Security+ | ✅ March 2026 |
+| CompTIA Security+ | ✅  2026 |
 | AWS Certified Solutions Architect – Associate | ✅ 2024 |
-| CompTIA A+ (Core 1 & Core 2) | ✅ |
-| Texas Property & Casualty Insurance License | ✅ |
+| CompTIA A+ (Core 1 & Core 2) | ✅ 2023 |
+| Texas Property & Casualty Insurance License | ✅ 2025|
 
 ---
 
